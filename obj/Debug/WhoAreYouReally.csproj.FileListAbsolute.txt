@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\WhoAreYouReally\bin\Debug\WhoAreYouReally.exe.config
+C:\Users\HP\source\repos\WhoAreYouReally\bin\Debug\WhoAreYouReally.exe
+C:\Users\HP\source\repos\WhoAreYouReally\bin\Debug\WhoAreYouReally.pdb
+C:\Users\HP\source\repos\WhoAreYouReally\obj\Debug\WhoAreYouReally.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WhoAreYouReally\obj\Debug\WhoAreYouReally.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WhoAreYouReally\obj\Debug\WhoAreYouReally.exe
+C:\Users\HP\source\repos\WhoAreYouReally\obj\Debug\WhoAreYouReally.pdb
+C:\Users\HP\source\repos\WhoAreYouReally\obj\Debug\WhoAreYouReally.exe.config
